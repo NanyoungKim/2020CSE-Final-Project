@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("나 영주 ㅎㅎ");
         System.out.println("나 영주 ㅎㅎ");
 
-        //ebaya~
+        //ebaya~dsds
     }
 
 }
