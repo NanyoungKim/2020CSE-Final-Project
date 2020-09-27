@@ -10,19 +10,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        System.out.println("try_youngju");
-        System.out.println("ayayay");
 
-        System.out.println("과연.....?");
-        System.out.print("Ayo! Yun");
-
-        // youngju
-        System.out.println("언제돼");//dd
-        System.out.println("나 영주 ㅎㅎ");
-        System.out.println("나 영주 ㅎㅎ");
-        System.out.println("나 영주 ㅎㅎ");
-
-        //ebaya~dsds
     }
 
 }
