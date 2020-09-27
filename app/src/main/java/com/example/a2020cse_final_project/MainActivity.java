@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("ayayay");
         System.out.print("Ayo! Yun");
 
+        // youngju
         System.out.println("나 영주 ㅎㅎ");
     }
 
