@@ -17,7 +17,7 @@
                 android:id="@+id/textView_app_manual_title"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:text="     어플리케이션 조작법"
+                android:text="어플리케이션 조작법"
                 android:paddingTop="18dp"
                 android:paddingLeft="30dp"
                 android:paddingBottom="10dp"
@@ -35,7 +35,7 @@
             android:layout_marginLeft="10dp"
             android:lineSpacingExtra="5dp"
             android:textColor="#000000"
-            android:textSize="20sp"
+            android:textSize="17sp"
             android:text="\nA. 화면 전환은 양 옆으로 넘겨서 할 수 있습니다. 실행 첫 화면에서 오른쪽으로 넘기면 도움말 화면이 나옵니다.\n\n
 B. 화면을 한 번 누르면, 설명 음성이 나옵니다. 선택하기 위해서는 두번 누르면 됩니댜.\n\n
 C. 초기 화면은 지도입니다. 안전한 경로를 안내하기 위한 화면입니다.\n\n
